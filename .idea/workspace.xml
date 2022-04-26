@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fc9804f-249e-404d-bc2d-f6f2e753b78b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/scripts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/scripts/jquery.backtotop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/scripts/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/scripts/jquery.mobilemenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/css/fontawesome-all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/framework.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout/styles/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/basic-grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/font-icons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/full-width.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/sidebar-left.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/sidebar-right.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28FEHrs2A7QnPIUXtO3lzca7rTy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Peytosoft/peytosoft.github.io&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Peytosoft\peytosoft.github.io" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Peytosoft\peytosoft.github.io\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fc9804f-249e-404d-bc2d-f6f2e753b78b" name="Changes" comment="" />
+      <created>1650803852072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650803852072</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
