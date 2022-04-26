@@ -1,44 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fc9804f-249e-404d-bc2d-f6f2e753b78b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/scripts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/scripts/jquery.backtotop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/scripts/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/scripts/jquery.mobilemenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/css/fontawesome-all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/css/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/framework.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/basic-grid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/font-icons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/full-width.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/sidebar-left.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/sidebar-right.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="1fc9804f-249e-404d-bc2d-f6f2e753b78b" name="Changes" comment="홈페이지 초기 샘플.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +45,14 @@
       <option name="presentableId" value="Default" />
       <updated>1650803852072</updated>
     </task>
+    <task id="LOCAL-00001" summary="홈페이지 초기 샘플.">
+      <created>1650980473466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650980473466</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,5 +77,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="홈페이지 초기 샘플." />
+    <option name="LAST_COMMIT_MESSAGE" value="홈페이지 초기 샘플." />
   </component>
 </project>
